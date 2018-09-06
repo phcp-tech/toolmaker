@@ -69,4 +69,4 @@ Toolmaker这个名称，受到电影《星球大战前传II克隆人的进攻》
 
  ## <h2 id="4">四、联系方式</h2>
   * 任何问题可以通过[Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；
-  * 联系请发送邮件：wxnchcp_cn@sina.com，或者qq：1790343904.
+  * 联系请发送邮件：wxnchcp_cn@sina.com，或者加入QQ群：150129626。
