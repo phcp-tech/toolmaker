@@ -24,13 +24,13 @@ Toolmaker这个名称，受到电影《星球大战前传II克隆人的进攻》
 
  ## <h2 id="2">二、技术架构</h2>
  #### 2.1 前端
-  * Html5, CSS, JavaScript, VueJS, Element, Webpack.
+  * Html5, CSS, JavaScript, VueJS, Vuetify, Webpack.
 
  #### 2.2 后端
-  * Golang/Echo/GORM, PostgreSQL/JSONB as NoSQL, Redis/Message Queue, Micro-service architecture.
+  * Golang/Echo/GORM, PostgreSQL, Micro-service architecture.
 
  #### 2.3 运行环境：AWS Lambda
-  * S3, CloudFront, Serverless Lambda, API Gateway, RDS Aurora.
+  * S3, CloudFront, Serverless Lambda, API Gateway, RDS.
 
  #### 2.4 技术领先的方面
   * 对软件开发过程与方法的深刻理解；
