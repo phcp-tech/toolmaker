@@ -6,11 +6,9 @@ Toolmaker is a light-weight, integrated Software Development Life Cycle (SDLC) p
  ## Technology Stack
  Toolmaker technology stack as follows:
  #### Front-end
-  Html5, CSS, JavaScript, VueJS, Element, Webpack.
+  VueJS
  #### Back-end
-  Golang/Echo/GORM, PostgreSQL/JSONB as NoSQL, Redis/Message Queue, Micro-service architecture.
- #### Running Environment：AWS Lambda
-  S3, CloudFront, Serverless Lambda, API Gateway, RDS.
+  Golang, PostgreSQL, AWS.
 
  ## Requirement Management
  ## Design Management

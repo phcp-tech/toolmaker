@@ -2,12 +2,12 @@
 
 # 目录
  * [一、为什么要创建Toolmaker](#1)
- * [二、技术架构](#2)
+ * [二、产品领先之处](#2)
  * [三、产品特性](#3)
  * [四、联系方式](#4)
 
  ## <h2 id="1">一、为什么要创建Toolmaker</h2>
- ### 1.1 开发过程存在的问题
+ ### 1.1 软件开发过程存在的普遍问题
   * 文档交付物杂乱
   * 管理过程碎片化
   * 管理工具阶段化/多样化
@@ -22,26 +22,22 @@ Toolmaker这个名称，受到电影《星球大战前传II克隆人的进攻》
   ### 1.4 预览地址
   * [https://toolmaker.io](https://toolmaker.io)，用户名称：guest，密码：123456。
 
- ## <h2 id="2">二、技术架构</h2>
- #### 2.1 前端
-  * Html5, CSS, JavaScript, VueJS, Vuetify, Webpack.
-
- #### 2.2 后端
-  * Golang/Echo/GORM, PostgreSQL, Micro-service architecture.
-
- #### 2.3 运行环境：AWS Lambda
-  * S3, CloudFront, Serverless Lambda, API Gateway, RDS.
-
- #### 2.4 技术领先的方面
+ ## <h2 id="2">二、产品领先之处</h2>
+ #### 2.1 技术领先的方面
   * 对软件开发过程与方法的深刻理解；
   * 基于完整统一的软件开发过程领域模型；
   * 遵守软件开发美学定义；
-  * 运行于AWS云环境，使用CloudFront、Lambda、RDS Aurora等技术，运维成本降至最低；  
+
+ #### 2.2 技术架构
+  * VueJS, Golang, PostgreSQL, AWS Lambda.
+  * 前端采用Material Design设计风格，支持多屏显示：PC，iPad，iOS，Android，支持PWA
+  * 后端运行于AWS云环境，使用CloudFront、Lambda、RDS Aurora等技术，运维成本降至最低；  
 
  ## <h2 id="3">三、产品特性</h2>
   ### 3.1 产品管理
-  * 创建产品
+  * 多产品管理，用户可以创建或加入多个产品，并随时在多个产品中切换。
   * 产品生命周期管理
+  * 完整的权限管理
   ### 3.2 需求管理
   #### 3.2.1 原始需求管理
   * 创建原始需求
@@ -68,5 +64,7 @@ Toolmaker这个名称，受到电影《星球大战前传II克隆人的进攻》
   * 用户角色定义
 
  ## <h2 id="4">四、联系方式</h2>
-  * 任何问题可以通过[Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；
-  * 联系请发送邮件：wxnchcp_cn@sina.com，或者加入QQ群：150129626。
+  * 产品问题或新需求可以通过[github Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；
+  * 联系请发送邮件：wxnchcp_cn@sina.com，或者加入QQ群讨论：150129626。
+  * 请关注我们的微信公众号：微信公众号搜索"CHCP"，或者扫描下方二维码关注：
+    ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=184&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
