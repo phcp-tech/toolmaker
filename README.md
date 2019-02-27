@@ -102,9 +102,13 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
     ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=144&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
 
  
- ## <h2 id="8">八、投资与募捐</h2>
+ ## <h2 id="8">八、投资与捐款</h2>
   * 为了能使产品生存下来并得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请邮件联系：customerservice@toolmaker.com.cn。
-  * 目前团队成员都是在业余时间来开发维护这个产品，产品的“个人版本”是免费使用的，如果您觉得产品功能还不错，愿意支持我们，可以按照如下方式进行募捐，募捐所得款项将用来支付购买云计算费用，以及开发过程中的各种成本支出，我们非常感谢您的支持。
+  * 目前团队成员都是在业余时间来开发维护这个产品，产品的“个人版本”是免费使用的，如果您觉得产品功能还不错，愿意支持我们，可以按照如下方式进行捐款，捐款所得款项将用来支付购买云计算费用，以及开发过程中的各种成本支出，我们非常感谢您的支持。
+  
+    ![Preivew](https://s3-ap-southeast-1.amazonaws.com/toolmaker-doc/pay/wechatpay-unlimited.png)
+
+    ![Preivew](https://s3-ap-southeast-1.amazonaws.com/toolmaker-doc/pay/alipay-unlimited.png)
 
  ## <h2 id="9">九、致谢</h2>
   * 感谢团队开发成员，他们都是在业余时间来开发这个产品，感谢他们对这个产品的热情和精湛的专业技能。
