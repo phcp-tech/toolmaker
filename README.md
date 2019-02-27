@@ -78,8 +78,13 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
   ### 3.9 项目管理
 
  ## <h2 id="4">四、运行环境</h2>
-  PWA
-  
+  * 浏览器：支持Chrome，Firefox，Safari 10+，Edge，IE 11
+  * 手机PWA模式：Toolmaker支持PWA模式，以Chrome浏览器为例：
+      手机下载Chrome浏览器最新版本，打开https://toolmaker.io 网站，在浏览器操作菜单中主动选择“添加到主屏幕”，此时在手机屏幕生成一个APP图标，就可以转变为一个类似APP的应用。
+      ![Preivew](images/add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
+      
+      效果如下：
+      ![Preivew](images/pwa_login.png)
  ## <h2 id="5">五、使用手册</h2>
   ### 4.1 用户注册与登录
   ### 4.2 创建新产品
@@ -106,7 +111,7 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
   * 为了能使产品生存下来并得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请邮件联系：customerservice@toolmaker.com.cn。
   * 目前团队成员都是在业余时间来开发维护这个产品，产品的“个人版本”是免费使用的，如果您觉得产品功能还不错，愿意支持我们，可以按照如下方式进行捐款，捐款所得款项将用来支付购买云计算费用，以及开发过程中的各种成本支出，我们非常感谢您的支持。
   
-    ![Preivew](https://s3-ap-southeast-1.amazonaws.com/toolmaker-doc/pay/wechatpay-unlimited.png)                                ![Preivew](https://s3-ap-southeast-1.amazonaws.com/toolmaker-doc/pay/alipay-unlimited.png)
-
+    ![Preivew](images/wechatpay-unlimited.png)      ![Preivew](images/alipay-unlimited.png)
+    
  ## <h2 id="9">九、致谢</h2>
   * 感谢团队开发成员，他们都是在业余时间来开发这个产品，感谢他们对这个产品的热情和精湛的专业技能。
