@@ -18,7 +18,7 @@
  ### 1.2 解决的问题
   * 普遍缺乏符合软件工程定义的软件开发流程
   * 项目管理过程碎片化
-  * 项目管理工具阶段化/多样化
+  * 项目管理工具阶段化、多样化
   * 项目文档交付物杂乱
   * 经验与知识不能有效传承 
 
@@ -29,7 +29,6 @@
   * 不再需要各种格式的文档，全部数据保存在平台中
   * SaaS软件，注册既使用，无需安装和维护
   * 人性化、简洁的操作界面，使用一次既上手
-  * 基于开发角色（产品经理/设计/开发/测试工程师）的权限管理
 
  ### 1.4 适用范围
   * 中小互联网企业的软件开发流程管理
@@ -40,7 +39,7 @@
   * Toolmaker don't care about what you do，but how you do.
 
  ### 1.6 名字缘起
-Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》一句台词的启发，其中一个情节是机器人C-3PO误入帝国的机器人士兵制造工厂，张口说道“Machines making machines. Huh! How perverse.” 是的，Toolmaker making (software) tools，Toolmaker是一个软件工具的制造者，缘起如是。
+Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻》一句台词的启发，其中一个情节是机器人C-3PO误入帝国的机器人士兵制造工厂，张口说道“Machines making machines. Huh! How perverse.” 是的，Toolmaker making (software) tools，Toolmaker是一个软件工具的制造者，缘起如是。
 
  ### 1.7 预览地址
   * 登录[https://toolmaker.io](https://toolmaker.io)，使用“产品演示”功能，会以guest用户登录，该用户可以查看一个演示产品“HR Management System”的所有内容，但不能创建任何内容。
@@ -52,26 +51,24 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
   * 基于完整统一的软件开发过程领域模型进行设计
 
  #### 2.2 技术领先
-  * 前端采用Material Design设计风格，支持多端显示：PC，iPad，iOS，Android，支持PWA
+  * 前端采用Material Design设计风格，支持多端显示：PC，Laptop，iPad，iPhone，Android，支持PWA
   * 后端微服务架构运行于AWS云环境，使用Lambda Serverless、CloudFront、RDS等技术，自动扩展不断增加的业务量
 
  ## <h2 id="3">三、特性列表</h2>
   ### 3.1 产品管理（已上线）
-  * 多产品管理，用户可以在各个产品中切换，执行不同的开发任务
-  * 用户加入，退出多个产品
-
+  * 多产品管理，用户可以创建多个产品，各个产品内容完全隔离，独立开发，互不干扰
+  * 用户可以加入/退出产品，在加入的产品中切换，执行不同的开发角色和开发任务
   ### 3.2 用户管理（已上线）
   * 注册用户
-  * 基于开发角色的权限管理
-
+  * 基于开发角色（产品经理/设计/开发/测试工程师）的权限管理
   ### 3.3 原始需求管理
   ### 3.4 特性管理（已上线）
   * 创建特性
-  * 冻结恢复特性
+  * 复制冻结恢复特性
   ### 3.5 需求管理（已上线）
   * 创建需求
-  * 冻结恢复需求
-  * 需求跟踪
+  * 复制冻结恢复需求
+  * 特性-需求跟踪
   ### 3.6 设计管理
   ### 3.7 测试管理
   ### 3.8 任务管理
@@ -79,13 +76,19 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
 
  ## <h2 id="4">四、运行环境</h2>
   * 浏览器：支持Chrome，Firefox，Safari 10+，Edge，IE 11
+    ![Preivew](images/feature.png)   
+
   * 手机PWA模式：Toolmaker支持PWA模式。以Chrome浏览器为例：
       手机下载Chrome浏览器最新版本，打开https://toolmaker.io 网站，在浏览器操作菜单中主动选择“添加到主屏幕”，此时在手机屏幕生成一个APP图标，就可以转变为一个类似APP的应用,效果如最右图：
-
       ![Preivew](images/add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
       ![Preivew](images/pwa_login.png)
+
  ## <h2 id="5">五、使用手册</h2>
   ### 4.1 用户注册与登录
+  * 用户填写用户名称和Email进行注册，用户名称必须是大写或小写字母开头，包含数字或7个特殊字符（_+=,.@-）,长度为3-20个字符。
+  * 用户使用邮箱进行验证，点击获取验证码，系统会把注册验证码发送到用户填写的邮箱中。用户登录邮箱获取验证码，填写验证码和密码后进行注册。
+  * 注册成功后，用户即可以登录使用系统。
+  
   ### 4.2 创建新产品
   限额
   ### 4.3 邀请用户加入产品
@@ -98,14 +101,12 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
 
  ## <h2 id="6">六、定制开发</h2>
   * 我们可以在Toolmaker现有功能的基础上，为贵公司定制软件开发管理流程，以便更好的符合贵公司的业务流程，联系请发送邮件至：customerservice@toolmaker.com.cn。
-  
 
  ## <h2 id="7">七、联系方式</h2>
   * 产品缺陷或新需求可以通过[Github Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；或者加入QQ群150129626讨论，加入时请注明“Toolmaker”；
   * 请关注我们的微信公众号：微信公众号搜索"CHCP"；或者扫描下方二维码关注：
 
     ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=144&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
-
  
  ## <h2 id="8">八、投资与捐款</h2>
   * 为了能使产品生存下来并得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请邮件联系：customerservice@toolmaker.com.cn。
