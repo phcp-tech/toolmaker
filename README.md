@@ -15,7 +15,7 @@
  ### 1.1 Toolmaker是什么
   * Toolmaker是一款轻量级、基于web、集成式的软件生命周期管理（ALM）软件，涉及需求分析、系统设计、测试管理、缺陷跟踪、任务管理、风险管理等诸多特性，是对自己长达十几年在软件工程领域积累的工作经验的工具化探索，欢迎注册并使用。
 
- ### 1.2 存在问题
+ ### 1.2 解决的问题
   * 普遍缺乏符合软件工程定义的软件开发流程
   * 项目管理过程碎片化
   * 项目管理工具阶段化/多样化
@@ -43,8 +43,8 @@
 Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》一句台词的启发，其中一个情节是机器人C-3PO误入帝国的机器人士兵制造工厂，张口说道“Machines making machines. Huh! How perverse.” 是的，Toolmaker making (software) tools，Toolmaker是一个软件工具的制造者，缘起如是。
 
  ### 1.7 预览地址
-  * [https://toolmaker.io](https://toolmaker.io)，用户名称：guest，密码：123456。
-
+  * 登录[https://toolmaker.io](https://toolmaker.io)，使用“产品演示”功能，会以guest用户登录，该用户可以查看一个演示产品“HR Management System”的所有内容，但不能创建任何内容。
+  * 注册新用户，创建产品，开始一个新产品的软件开发过程。
 
  ## <h2 id="2">二、产品领先之处</h2>
  #### 2.1 思想领先
@@ -79,9 +79,9 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
 
  ## <h2 id="4">四、运行环境</h2>
   * 浏览器：支持Chrome，Firefox，Safari 10+，Edge，IE 11
-  * 手机PWA模式：Toolmaker支持PWA模式，以Chrome浏览器为例：
+  * 手机PWA模式：Toolmaker支持PWA模式。以Chrome浏览器为例：
       手机下载Chrome浏览器最新版本，打开https://toolmaker.io 网站，在浏览器操作菜单中主动选择“添加到主屏幕”，此时在手机屏幕生成一个APP图标，就可以转变为一个类似APP的应用,效果如最右图：
-      
+
       ![Preivew](images/add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
       ![Preivew](images/pwa_login.png)
  ## <h2 id="5">五、使用手册</h2>
@@ -89,6 +89,7 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
   ### 4.2 创建新产品
   限额
   ### 4.3 邀请用户加入产品
+  ### 4.2 角色权限定义
   ### 4.4 特性管理
   ### 4.5 需求管理
   ### 4.6 产品设置
@@ -108,7 +109,7 @@ Toolmaker这个名字，受到电影《星球大战前传II克隆人的进攻》
  
  ## <h2 id="8">八、投资与捐款</h2>
   * 为了能使产品生存下来并得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请邮件联系：customerservice@toolmaker.com.cn。
-  * 目前团队成员都是在业余时间来开发维护这个产品，产品的“个人版本”是免费使用的，如果您觉得产品功能还不错，愿意支持我们，可以按照如下方式进行捐款，捐款所得款项将用来支付购买云计算费用，以及开发过程中的各种成本支出，我们非常感谢您的支持。
+  * 目前团队成员都是在业余时间来开发维护这个产品，产品的“个人版本”是免费使用的，如果您觉得产品功能还不错，愿意支持我们，可以按照如下方式进行捐款，捐款所得款项将用来支付购买云计算费用，宣传广告，以及开发过程中的各种成本支出，我们非常感谢您的支持。
   
     ![Preivew](images/wechatpay-unlimited.png)      ![Preivew](images/alipay-unlimited.png)
     
