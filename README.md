@@ -82,8 +82,8 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
   * 手机PWA模式：Toolmaker支持PWA模式。以Chrome浏览器为例：
       手机下载Chrome浏览器最新版本，打开https://toolmaker.io 网站，在浏览器操作菜单中主动选择“添加到主屏幕”，此时在手机屏幕生成一个APP图标，就可以转变为一个类似APP的应用,效果如最右图：
 
-      ![Preivew](images/add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
-      ![Preivew](images/pwa_login.png)
+      ![Preivew](images/pwa_add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
+      ![Preivew](images/pwa_requirement_list.png)
 
  ## <h2 id="5">五、使用手册</h2>
   ### 5.1 用户注册与登录
