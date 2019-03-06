@@ -75,11 +75,15 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
   ### 3.9 项目管理
 
  ## <h2 id="4">四、运行环境</h2>
-  * 浏览器：支持Chrome，Firefox，Safari，Edge
+  * Windows PC浏览器支持：Chrome，Firefox，Edge, Opera, QQ, UC, 猎豹。不支持IE11及以下版本浏览器。
+  * Android手机浏览器支持：Chrome，Firefox，Edge，QQ, UC。不支持Opera，猎豹。
+  * MacOS浏览器：Safari
+  * iPhone手机浏览器：Safari
+  * iPad浏览器：Safari
   
     ![Preivew](images/feature.png)   
 
-  * 手机PWA模式：Toolmaker支持PWA模式。以Chrome浏览器为例：
+  * 手机PWA模式：Toolmaker支持PWA模式，浏览器支持Chrome，Firefox，Edge。以Chrome浏览器为例：
       手机下载Chrome浏览器最新版本，打开https://toolmaker.io 网站，在浏览器操作菜单中主动选择“添加到主屏幕”，此时在手机屏幕生成一个APP图标，就可以转变为一个类似APP的应用,效果如最右图：
 
       ![Preivew](images/pwa_add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
