@@ -193,7 +193,8 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
     ![Preivew](images/change_avatar.png)
 
  ## <h2 id="6">六、定制开发</h2>
-  * 我们可以在Toolmaker现有功能的基础上，为贵公司定制软件开发管理流程，以便更好的符合贵公司的业务流程，联系请发送邮件至：customerservice@toolmaker.com.cn。
+  * 我们可以在Toolmaker现有功能的基础上，为贵公司定制软件开发管理流程，以便更好的符合贵公司的业务流程。
+  * 如果您看好我们的开发流程和开发质量，我们也愿意承接其他软件开发项目，联系请发送邮件至：customerservice@toolmaker.com.cn。
 
  ## <h2 id="7">七、联系方式</h2>
   * 产品缺陷或新需求可以通过[Github Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；或者加入QQ群150129626讨论，加入时请注明“Toolmaker”；
