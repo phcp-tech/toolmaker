@@ -76,6 +76,10 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
 
  ## <h2 id="4">四、运行环境</h2>
   * Windows PC浏览器支持：Chrome，Firefox，Edge, Opera, QQ, UC, 猎豹。不支持IE11及以下版本浏览器。
+  ** Edge浏览器会出现TLS协议的情况，需要修改，执行Settings->搜索"Internet Options"或者"Internet Properties"->Advanced->Security->勾选"Use TLS 1.0","Use TLS 1.1","Use TLS 1.2",见下图：
+
+      ![Preivew](images/internetproperties.png) 
+
   * Android手机浏览器支持：Chrome，Firefox，Edge，QQ, UC。不支持Opera，猎豹，微信内部浏览器。
   * MacOS浏览器：Safari
   * iPhone手机浏览器：Safari
