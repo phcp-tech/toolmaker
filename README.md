@@ -60,7 +60,7 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
 
       ![Preivew](images/internetproperties.png) 
 
-  * Android手机浏览器支持：Chrome，Firefox，Edge，QQ, UC。不支持Opera，猎豹，微信内部浏览器。
+  * Android手机浏览器支持：Chrome，Firefox，Edge，QQ, UC，微信内部浏览器。不支持Opera，猎豹浏览器。
   * MacOS浏览器：Safari
   * iPhone手机浏览器：Safari
   * iPad浏览器：Safari
