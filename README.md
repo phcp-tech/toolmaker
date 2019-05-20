@@ -55,19 +55,25 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
   * 后端微服务架构运行于AWS云环境，使用Lambda Serverless、CloudFront、RDS等技术，自动扩展不断增加的业务量
  
  ## <h2 id="3">三、运行环境</h2>
-  * Windows PC浏览器支持：Chrome，Firefox，Edge, Opera, QQ, UC, 猎豹。不支持IE11及以下版本浏览器。
+  支持的终端类型：大屏幕，PC，笔记本，移动端Android，iPhone，iPAD
+#### 3.1 Windows PC浏览器
+  * 支持Chrome，Firefox，Edge, Opera, QQ, UC, 猎豹。不支持IE11及以下版本浏览器。
+
+      ![Preivew](images/requirement.png)  
   * Edge浏览器会出现TLS协议的情况，需要修改，执行Settings->搜索"Internet Options"或者"Internet Properties"->Advanced->Security->勾选"Use TLS 1.0","Use TLS 1.1","Use TLS 1.2",见下图：
 
       ![Preivew](images/internetproperties.png) 
 
+#### 3.2 MacOS浏览器
+  * 支持Safari
+#### 3.3 移动端浏览器
   * Android手机浏览器支持：Chrome，Firefox，Edge，QQ, UC，微信内部浏览器。不支持Opera，猎豹浏览器。
-  * MacOS浏览器：Safari
+  
   * iPhone手机浏览器：Safari
   * iPad浏览器：Safari
-  
-    ![Preivew](images/requirement.png)   
-
-  * 手机PWA模式：Toolmaker支持PWA模式，浏览器支持Chrome，Firefox，Edge。以Chrome浏览器为例：
+ 
+#### 3.4 手机PWA模式
+  * 支持PWA模式，浏览器支持Chrome，Firefox，Edge。以Chrome浏览器为例：
       手机下载Chrome浏览器最新版本，打开https://toolmaker.io 网站，在浏览器操作菜单中主动选择“添加到主屏幕”，此时在手机屏幕生成一个APP图标，就可以转变为一个类似APP的应用,效果如最右图：
 
       ![Preivew](images/pwa_add_to_main_screen.png)    ![Preivew](images/pwa_icon.png) 
@@ -133,6 +139,7 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
   只有产品经理和设计工程师才有权限创建和管理特性。“个人版本”每个产品最多可以创建20个特性。
   #### 5.5.1 创建特性
   点击左侧菜单->需求管理->特性，打开特性列表，点击列表上方的“+”号，填写名称，简介，分类，重要性，可获得性，客户价值，特性增强，依赖关系等选项进行创建；可以自定义Tag进行标识；
+    ![Preivew](images/create_feature.png)
 
   #### 5.5.2 特性列表
   * 每列数据从左到右依次是：特性编码OID，名称，自定义Tag，重要性，状态，操作菜单。
@@ -181,6 +188,7 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
   只有产品经理和设计工程师才有权限创建和管理组件。“个人版本”每个产品最多可以创建20个组件。
   #### 5.7.1 创建组件
   点击左侧菜单->设计管理->组件，打开组件列表，点击列表上方的“+”号，填写名称，简介，描述等内容进行创建；可以自定义Tag进行标识；
+
       ![Preivew](images/create_component.png)
 
   #### 5.7.2 组件列表
@@ -257,6 +265,7 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
   * 修改中：修改完成后可以提交给测试人员进行测试，或者转给其他开发人员，也可以直接拒绝这个缺陷；
   * 测试中：测试人员完成测试后，可以关闭这个缺陷，或者回退给开发人员继续修改；
   * 已关闭：可以重新打开缺陷。
+
         ![Preivew](images/defect_commit.png)
 
   ### 5.11 风险管理
@@ -286,7 +295,7 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
 
   #### 5.12.2 任务列表
   * 任务列表缺省以Todolist视图显示，可以与普通列表视图切换。在Todolist视图下，可以拖动一个任务以改变其状态，任务容是任务编码OID，名称，责任人，优先级，计划结束日期；
-        ![Preivew](images/task_list.png)
+        ![Preivew](images/todolist.png)
 
   * 普通列表每列数据从左到右依次是：来源OID（任务的来源可能是需求，功能，风险），任务编码OID，名称，自定义Tag，优先级，状态，操作菜单。
   * 可以按照OID和任务名称查询
