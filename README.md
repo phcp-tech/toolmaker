@@ -59,7 +59,7 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
 #### 3.1 Windows PC浏览器
   * 支持Chrome，Firefox，Edge, Opera, QQ, UC, 猎豹。不支持IE11及以下版本浏览器。
 
-      ![Preivew](images/requirement.png)  
+      ![Preivew](images/homepage_bg.png)  
   * Edge浏览器会出现TLS协议的情况，需要修改，执行Settings->搜索"Internet Options"或者"Internet Properties"->Advanced->Security->勾选"Use TLS 1.0","Use TLS 1.1","Use TLS 1.2",见下图：
 
       ![Preivew](images/internetproperties.png) 
