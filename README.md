@@ -36,8 +36,8 @@
   * 大中小企业IT部门的软件开发流程管理
 
  ### 1.5 口号
-  * Toolmaker不关注你开发什么，而关注你如何开发。
-  * Toolmaker doesn't focus on what you develop，but on how you develop.
+  * Toolmaker不关注你开发什么，而关注你如何开发！
+  * Toolmaker doesn't focus on what you develop，but on how you develop!
 
  ### 1.6 名字缘起
 Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻》一句台词的启发，其中一个情节是机器人C-3PO误入帝国的机器人士兵制造工厂，张口说道“Machines making machines. Huh! How perverse.” 是的，Toolmaker making (software) tools，Toolmaker是一个软件工具的制造者，缘起如是。
