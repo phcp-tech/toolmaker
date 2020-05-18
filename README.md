@@ -413,7 +413,6 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
  ## <h2 id="7">七、联系方式</h2>
   * 重要事项请通过邮件联系：customerservice@toolmaker.com.cn；
   * 产品缺陷或新需求可以通过[Github Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；
-  * 加入微信讨论群：请先加个人微信号（wxn1790343904），然后由管理员拉入微信讨论群，加入时请注明“Toolmaker”；
   * 加入QQ讨论群：150129626，加入时请注明“Toolmaker”；
   * 请关注我们的微信公众号：微信公众号搜索"CHCP"；或者扫描下方二维码关注：
 
