@@ -6,10 +6,11 @@
  * [三、运行环境](#3)
  * [四、特性列表](#4)
  * [五、使用手册](#5)
- * [六、定制开发](#6)
- * [七、联系方式](#7)
- * [八、投资与募捐](#8)
- * [九、致谢](#9)
+ * [六、版本与价格](#6)
+ * [七、定制开发](#7)
+ * [八、联系方式](#8)
+ * [九、投资与募捐](#9)
+ * [十、致谢](#10)
 
  ## <h2 id="1">一、Toolmaker是什么</h2>
  ### 1.1 Toolmaker是什么
@@ -432,11 +433,17 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
 
     ![Preivew](images/change_avatar.png)
 
- ## <h2 id="6">六、定制开发</h2>
+## <h2 id="6">六、版本与价格</h2>
+  * 个人版本
+  * 团队版本
+  * 高级版本
+  * 企业版本
+
+ ## <h2 id="7">七、定制开发</h2>
   * 我们可以在Toolmaker现有功能的基础上，为贵公司定制软件开发管理流程，以便更好的符合贵公司的业务流程。
   * 如果您看好我们的开发能力和开发质量，我们也愿意承接其他软件开发项目，请按照如下方式联系。
 
- ## <h2 id="7">七、联系方式</h2>
+ ## <h2 id="8">八、联系方式</h2>
   * 重要事项请通过邮件联系：customerservice@toolmaker.com.cn；
   * 产品缺陷或新需求可以通过[Github Issues](https://github.com/CHCP/toolmaker-docs/issues)提出并获得解答；
   * 加入QQ讨论群：150129626，加入时请注明“Toolmaker”；
@@ -444,12 +451,12 @@ Toolmaker这个名字，受到电影《星球大战前传II--克隆人的进攻�
 
     ![Preivew](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=144&__biz=Mzg4NDA2NTQxOA==&mid=100000004&idx=1&sn=6df5d3671cb2b4034ee0dda49962519f&send_time=1545721051)
  
- ## <h2 id="8">八、投资与捐款</h2>
-  * 为了能使产品得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请微信联系：wxn1790343904。
+ ## <h2 id="9">九、投资与捐款</h2>
+  * 为了能使产品得到进一步的发展，我们寻找并接受风险投资，寻找更多更专业的人来开发运营这个产品，有意者请邮件联系。
   * 目前产品的“个人版本”是免费使用的，如果您觉得产品功能还不错，愿意支持我们，可以按照如下方式进行捐款，捐款所得款项将用来支付购买云计算费用，宣传广告，以及开发过程中的各种成本支出，我们非常感谢您的支持。
   
     ![Preivew](images/wechatpay-unlimited.png)      ![Preivew](images/alipay-unlimited.png)
     
- ## <h2 id="9">九、致谢</h2>
+ ## <h2 id="10">十、致谢</h2>
   * 感谢团队开发成员，感谢他们对产品的热情付出和精湛的专业技能。
-  * Toolmaker使用了不限以下技术，在此一并致谢：vue，vuetify，echarts，plantUML，mavon-editor，swagger-ui，xormplus...
+  * Toolmaker使用了不限以下技术，在此一并致谢：vue,vuetify,nuxt,echarts,plantUML,mavon-editor,swagger-ui,golang,echo,xormplus...
