@@ -1,4 +1,4 @@
-简体中文 | [English](./README.english.md).
+简体中文 | [English](./README.english.md)
 
 # 目录
  * [一、Toolmaker是什么](#1)
